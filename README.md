@@ -6,11 +6,6 @@ Small projects I work(ed) on:
 - https://tictactoe.jeromebertaux.be
 - https://qrcode.jeromebertaux.be
 
-#### 🔥 My stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JBertaux&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JBertaux&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 #### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [How I built my own web analytics system ?](https://faun.pub/how-i-built-my-own-web-analytics-system-f1c8fc25272e?source=rss-e32d694b158e------2)
