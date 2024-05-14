@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+You can find everything you need to know about me [here 🌐](https://jeromebertaux.be).
+
+Small projects I work(ed) on:
+- https://tictactoe.jeromebertaux.be
+- https://qrcode.jeromebertaux.be
+
 <!--
 **JBertaux/JBertaux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
