@@ -2,7 +2,7 @@
 
 You can find everything you need to know about me [here 🌐](https://jeromebertaux.be).
 
-Small projects I work(ed) on:
+#### ⚙️ Small projects I work(ed) on
 - https://tictactoe.jeromebertaux.be
 - https://qrcode.jeromebertaux.be
 - https://tiercalc.jeromebertaux.be
@@ -15,17 +15,3 @@ Small projects I work(ed) on:
 - [A Kafka Streams processor app with Spring Cloud Stream](https://guanacobe.medium.com/a-kafka-streams-processor-app-with-spring-cloud-stream-1de7565da61c?source=rss-e32d694b158e------2)
 <!-- BLOG-POST-LIST:END -->
 
-<!--
-**JBertaux/JBertaux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
