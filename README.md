@@ -5,6 +5,7 @@ You can find everything you need to know about me [here 🌐](https://jeromebert
 Small projects I work(ed) on:
 - https://tictactoe.jeromebertaux.be
 - https://qrcode.jeromebertaux.be
+- https://tiercalc.jeromebertaux.be
 
 #### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
